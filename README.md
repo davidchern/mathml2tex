@@ -4,7 +4,11 @@ Convert mathml back into math-tex, but with only a subset of mathml specs is sup
 
 Run on Python 2.7
 
-## Usage
+### Requirement
+
+BeautifulSoup 4
+
+### Usage
 
 ```python
 from mathml2tex import MathMLTeX
