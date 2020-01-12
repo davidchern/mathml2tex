@@ -1,8 +1,8 @@
 # mathml2tex
 
-Convert mathml back into math-tex, but with only a subset of mathml specs is supported (yet extending it is simple).
+Convert mathml back into math-tex, but with only a subset of mathml syntaxes is supported (yet extending it is simple).
 
-Run on Python 2.7
+Run on Python 2.7, may run on Python 3.x too.
 
 ### Requirement
 
