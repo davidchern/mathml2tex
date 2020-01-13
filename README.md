@@ -1,12 +1,16 @@
 # mathml2tex
 
-Convert mathml back into math-tex, but with only a subset of mathml syntaxes is supported (yet extending it is simple).
+Convert MathML back into Math-Tex, but with only a subset of MathML syntaxes is supported (yet extending it is quite simple).
 
 Run on Python 2.7, may run on Python 3.x too.
 
 ### Requirement
 
-BeautifulSoup 4
+BeautifulSoup 4. To install it, just run
+
+```shell
+pip install bs4
+```
 
 ### Usage
 
